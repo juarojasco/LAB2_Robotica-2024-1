@@ -1,4 +1,4 @@
-# Laboratorio 2 de Robótica: Dibujo del Logo de Renault e Iniciales en un Tablero inclinado
+# Laboratorio 2 de Robótica: Paletizado con Robot de 6 ejes
 
 - David Andrés Ricaurte de Lima  
   *Ingeniería Mecatrónica*  
