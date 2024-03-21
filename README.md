@@ -39,10 +39,10 @@ paletizado_e: Sege una trayectoria de Paletizado extendido en z, se realiza un d
 
 El módulo utilizado para el desarrollo de la práctica se encuentra implementado en formato .prg, el lenguaje de programación utilizado en los robots EPSON. Este código controla todas las acciones del robot.
 
-[Enlace al Código](https://github.com/dricaurte29/LAB1_Robotica-2024-1/blob/1e6cc3599e96ed0de572da09085f5021eb06aef4/Main.prg)
+[Enlace al Código](https://github.com/juarojasco/LAB2_Robotica-2024-1/blob/0aad4cbdebeadf7e00415ed32d7d547f112b6ec0/Main.prg)
 
 ## Implementación en Robots Reales
 
 Se proporciona un vídeo que muestra la implementación de la práctica con el robot real. Este vídeo ofrece una demostración visual del funcionamiento del proyecto y los resultados obtenidos.
 
-[Video Implementación](https://youtu.be/6jf_3rTcXpg)
+[Video Implementación](https://youtu.be/iPpm5pwgqHs)
