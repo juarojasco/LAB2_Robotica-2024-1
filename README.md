@@ -6,11 +6,11 @@
   Bogotá, Colombia  
   dricaurte@unal.edu.co
 
-- Juan Rojas  
+- Juan Antonio Rojas Cobos  
   *Ingeniería Mecatrónica*  
   *Universidad Nacional de Colombia*  
   Bogotá, Colombia  
-  xxxg@unal.edu.co
+  juarojascog@unal.edu.co
 
 
 Este proyecto tiene como objetivo programar un robot EPSON VT6L para moverse de manera precisa siguiendo trayectorias de paletizado.
