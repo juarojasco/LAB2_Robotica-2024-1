@@ -35,7 +35,7 @@ paletizado_s: Sege una trayectoria de Paletizado en s, se realiza un dezplazamie
 
 paletizado_e: Sege una trayectoria de Paletizado extendido en z, se realiza un dezplazamiento para los puntos del paletizado en z de 700.
 
-## Código en RAPID
+## Código
 
 El módulo utilizado para el desarrollo de la práctica se encuentra implementado en formato .prg, el lenguaje de programación utilizado en los robots EPSON. Este código controla todas las acciones del robot.
 
