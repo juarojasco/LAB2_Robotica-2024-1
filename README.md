@@ -23,7 +23,7 @@ El robot EPSON VT6L ha sido programado para moverse de manera precisa siguiendo 
 
 El diagrama de flujo de acciones del robot muestra la secuencia de movimientos y acciones ejecutadas por el robot para completar la tarea de paletizado. Este diagrama proporciona una visión general de la lógica de programación utilizada para controlar el robot.
 
-![Diagrama de Flujo de Acciones del Robot](diagramaflujo.png)
+![Diagrama de Flujo de Acciones del Robot](DiagramaFlujo.png)
 
 ## Descripción de las Funciones Utilizadas
 
