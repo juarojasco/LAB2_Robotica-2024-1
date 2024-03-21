@@ -18,9 +18,13 @@ Do
 	Wait 0.3
 	Move EjeY
 	Wait 0.5
-	
-	paletizado_z
-	paletizado_s
+
+	if sw(9) Then
+		paletizado_z
+	EndIf
+	if sw(10) Then
+		paletizado_s
+	EndIf
 	paletizado_e
 Loop
 'Do
